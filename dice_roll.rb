@@ -12,4 +12,8 @@ def roll
   roll.sample
 end
 
+def roll
+  rand(1..6)
+end
+
 
