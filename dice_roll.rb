@@ -7,4 +7,11 @@ def roll
   roll.sample
 end
 
+def roll
+  rand(1..6)
+end
+
+def roll
+  1 + rand(6)
+end
 
